@@ -5,3 +5,6 @@ Copyright untuk foto karakter, banner, dan pakaian serta deskripsinya adalah mil
 
 Folder Bootstrap, Bootstrap-progressbar, iCheck, images, jQuery, css, fontawesome, font-awesome, fastclick, nprogress, skycons, js :
 Masuk ke dalam 'assets'
+
+Username : giselle
+password : test
