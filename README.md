@@ -1,10 +1,8 @@
 # ERP-SYSTEM-UAS
-ERP System mengenai brand pakaian original bernama L'inverse. Dibuat sebagai tugas UAS ERP System.
-Nama brand merupakan merk original dari saya.
-Copyright untuk foto karakter, banner, dan pakaian serta deskripsinya adalah milik saya sendiri.
+ERP System for my original fashion brand, L'inverse. L'inverse is a fictional brand on ZEPETO that I created. I made this as my ERP System Final Exam project.
+Character photos, banner, items featured, and the descriptions are mine (with help of ZEPETO).
 
-Folder Bootstrap, Bootstrap-progressbar, iCheck, images, jQuery, css, fontawesome, font-awesome, fastclick, nprogress, skycons, js :
-Masuk ke dalam 'assets'
+Bootstrap, Bootstrap-progressbar, iCheck, images, jQuery, css, fontawesome, font-awesome, fastclick, nprogress, skycons, js are placed in assets folder.
 
 Username : giselle
 password : test
